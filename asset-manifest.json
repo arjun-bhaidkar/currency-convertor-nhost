@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/currency-convertor-nhost/static/css/main.94a703e5.chunk.css",
-    "main.js": "/currency-convertor-nhost/static/js/main.a236c430.chunk.js",
-    "main.js.map": "/currency-convertor-nhost/static/js/main.a236c430.chunk.js.map",
-    "runtime-main.js": "/currency-convertor-nhost/static/js/runtime-main.151e1483.js",
-    "runtime-main.js.map": "/currency-convertor-nhost/static/js/runtime-main.151e1483.js.map",
-    "static/css/2.0bedf80c.chunk.css": "/currency-convertor-nhost/static/css/2.0bedf80c.chunk.css",
-    "static/js/2.c7e3243e.chunk.js": "/currency-convertor-nhost/static/js/2.c7e3243e.chunk.js",
-    "static/js/2.c7e3243e.chunk.js.map": "/currency-convertor-nhost/static/js/2.c7e3243e.chunk.js.map",
-    "index.html": "/currency-convertor-nhost/index.html",
-    "precache-manifest.348a9a4b0b4176a3a677e25930c9e321.js": "/currency-convertor-nhost/precache-manifest.348a9a4b0b4176a3a677e25930c9e321.js",
-    "service-worker.js": "/currency-convertor-nhost/service-worker.js",
-    "static/css/2.0bedf80c.chunk.css.map": "/currency-convertor-nhost/static/css/2.0bedf80c.chunk.css.map",
-    "static/css/main.94a703e5.chunk.css.map": "/currency-convertor-nhost/static/css/main.94a703e5.chunk.css.map",
-    "static/js/2.c7e3243e.chunk.js.LICENSE.txt": "/currency-convertor-nhost/static/js/2.c7e3243e.chunk.js.LICENSE.txt"
+    "main.css": "/arjun-bhaidkar/currency-convertor-nhost/static/css/main.94a703e5.chunk.css",
+    "main.js": "/arjun-bhaidkar/currency-convertor-nhost/static/js/main.188e82bf.chunk.js",
+    "main.js.map": "/arjun-bhaidkar/currency-convertor-nhost/static/js/main.188e82bf.chunk.js.map",
+    "runtime-main.js": "/arjun-bhaidkar/currency-convertor-nhost/static/js/runtime-main.373941d6.js",
+    "runtime-main.js.map": "/arjun-bhaidkar/currency-convertor-nhost/static/js/runtime-main.373941d6.js.map",
+    "static/css/2.0bedf80c.chunk.css": "/arjun-bhaidkar/currency-convertor-nhost/static/css/2.0bedf80c.chunk.css",
+    "static/js/2.c7e3243e.chunk.js": "/arjun-bhaidkar/currency-convertor-nhost/static/js/2.c7e3243e.chunk.js",
+    "static/js/2.c7e3243e.chunk.js.map": "/arjun-bhaidkar/currency-convertor-nhost/static/js/2.c7e3243e.chunk.js.map",
+    "index.html": "/arjun-bhaidkar/currency-convertor-nhost/index.html",
+    "precache-manifest.fe0158bc2e9a8adaf85657ce74e1a08a.js": "/arjun-bhaidkar/currency-convertor-nhost/precache-manifest.fe0158bc2e9a8adaf85657ce74e1a08a.js",
+    "service-worker.js": "/arjun-bhaidkar/currency-convertor-nhost/service-worker.js",
+    "static/css/2.0bedf80c.chunk.css.map": "/arjun-bhaidkar/currency-convertor-nhost/static/css/2.0bedf80c.chunk.css.map",
+    "static/css/main.94a703e5.chunk.css.map": "/arjun-bhaidkar/currency-convertor-nhost/static/css/main.94a703e5.chunk.css.map",
+    "static/js/2.c7e3243e.chunk.js.LICENSE.txt": "/arjun-bhaidkar/currency-convertor-nhost/static/js/2.c7e3243e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.151e1483.js",
+    "static/js/runtime-main.373941d6.js",
     "static/css/2.0bedf80c.chunk.css",
     "static/js/2.c7e3243e.chunk.js",
     "static/css/main.94a703e5.chunk.css",
-    "static/js/main.a236c430.chunk.js"
+    "static/js/main.188e82bf.chunk.js"
   ]
 }
