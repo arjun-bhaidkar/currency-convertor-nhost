@@ -1,0 +1,55 @@
+.card {
+    padding: 2vmax;
+    border-radius: 1.5vmax;
+}
+.middle-text {
+    font-size: 1rem;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    color: #8e24aa;
+}
+input:focus{
+    border-bottom: 1px solid #ce93d8 !important;
+    box-shadow: 0 1px 0 0 #ce93d8 !important;
+}
+.swap-icon {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.material-icons:active{ 
+    box-shadow: 0px 1px 0px 0px grey;
+ }
+ select option {
+    background: white;
+ }
+ input[type=number] {
+    -moz-appearance: textfield;
+}
+::placeholder {
+    color: gray;
+}
+select:focus{
+    border-color: lightgray;
+    outline:none;
+}
+.loading {
+    height: 4vh;
+}
+@media screen and (max-width: 990px) {
+.swap-icon {
+    position: relative;
+    margin: 5px;
+}
+.swap {
+    width: 100%;
+}
+}
