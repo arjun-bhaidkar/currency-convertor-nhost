@@ -1,7 +1,7 @@
 {
   "name": "currency-convertor-nhost",
   "version": "1.0.0",
-  "homepage": "https://arjun-bhaidkar.github.io/currency-convertor-nhost",  
+  "homepage": "https://github.com/arjun-bhaidkar/currency-convertor-nhost",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -9,6 +9,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "gh-pages": "^4.0.0",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
