@@ -1,7 +1,7 @@
 {
   "name": "currency-convertor-nhost",
   "version": "1.0.0",
-  "homepage": "https://github.com/arjun-bhaidkar/currency-convertor-nhost",
+  "homepage": "https://arjun-bhaidkar.github.io/currency-convertor-nhost",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
