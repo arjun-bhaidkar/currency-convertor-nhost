@@ -7,4 +7,4 @@ Currency convertor is a web app that converts one currency value into another.
 Frontend: React js and Materialize css
 
 Currency convertor Api:
-Link: "https://rapidapi.com/fyhao/api/currency-exchange"
+Link: "https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/"
